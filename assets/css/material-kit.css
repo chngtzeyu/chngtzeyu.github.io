@@ -13843,7 +13843,8 @@ small,
     color:  #FFFFFF;
     font-size: 4em;
     margin: 0;
-    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 0px;
 }
 
 .title2 {
