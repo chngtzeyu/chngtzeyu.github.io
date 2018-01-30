@@ -13844,7 +13844,7 @@ small,
     color:  #FFFFFF;
     font-size: 4em;
     margin: 0;
-    padding-top: 400px;
+    padding-top: 20px;
     padding-bottom: 0px;
 }
 
@@ -15207,7 +15207,7 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 }
 
 .page-header {
-    height: 100vh;
+    height: 140vh;
     background-position: center center;
     background-size: cover;
     margin: 0;
