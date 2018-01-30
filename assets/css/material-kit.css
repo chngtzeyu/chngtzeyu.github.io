@@ -2403,6 +2403,7 @@ fieldset[disabled] a.btn {
     background-color: #00bcd4;
     border-color: #00bcd4;
     box-shadow: none;
+    padding-bottom: 300px;
 }
 
 .btn-info:hover {
@@ -13843,7 +13844,7 @@ small,
     color:  #FFFFFF;
     font-size: 4em;
     margin: 0;
-    padding-top: 150px;
+    padding-top: 500px;
     padding-bottom: 0px;
 }
 
@@ -13853,7 +13854,7 @@ small,
     font-weight: 500;
     margin: 0;
     padding-top: 0px;
-    padding-bottom: 150px;
+    padding-bottom: 20px;
 }
 
 h2.title {
